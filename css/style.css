@@ -1,7 +1,7 @@
 /* Base */
 body {
   line-height: 1.7;
-  color: #4d4d4d;
+  color: #043050;
   font-weight: 300;
   font-size: 1.1rem;
 }
@@ -285,7 +285,7 @@ a:hover {
 }
 
 .site-navbar .site-navigation .site-menu .active > a {
-  color: #f23a2e;
+  color: #e3d80b;
 }
 
 .site-navbar .site-navigation .site-menu a {
@@ -309,7 +309,7 @@ a:hover {
 }
 
 .site-navbar .site-navigation .site-menu > li > a:hover {
-  color: #f23a2e;
+  color: #e3d80b;
 }
 
 .site-navbar .site-navigation .site-menu .has-children {
