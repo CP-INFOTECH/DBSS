@@ -132,6 +132,7 @@ a:hover {
 .site-section {
   padding: 2.5em 0;
   background-color: #043050;
+  color: #fff;
 }
 
 @media (min-width: 768px) {
