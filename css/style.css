@@ -844,7 +844,7 @@ a:hover {
   position: relative;
   overflow: hidden;
   border: 1px solid #e6e6e6;
-  background-color: #fff;
+  background-color: #d3d3d3;
 }
 
 .post-entry, .post-entry .text {
