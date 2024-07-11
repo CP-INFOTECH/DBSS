@@ -131,9 +131,11 @@ a:hover {
 
 .site-section {
   padding: 2.5em 0;
+ 
+}
+.site-section.blue-bg{
   background-color: #043050;
 }
-
 @media (min-width: 768px) {
   .site-section {
     padding: 5em 0;
