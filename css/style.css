@@ -132,12 +132,8 @@ a:hover {
 .site-section {
   padding: 2.5em 0;
   background-color: #043050;
-  color: #fff;
 }
-.site-section h2{
-  text-color: #fff;
-  color: #fff;
-}
+
 @media (min-width: 768px) {
   .site-section {
     padding: 5em 0;
@@ -848,6 +844,7 @@ a:hover {
   position: relative;
   overflow: hidden;
   border: 1px solid #e6e6e6;
+  background-color: #fff;
 }
 
 .post-entry, .post-entry .text {
