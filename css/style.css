@@ -134,7 +134,10 @@ a:hover {
   background-color: #043050;
   color: #fff;
 }
-
+.site-section h2{
+  text-color: #fff;
+  color: #fff;
+}
 @media (min-width: 768px) {
   .site-section {
     padding: 5em 0;
