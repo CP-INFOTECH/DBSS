@@ -136,9 +136,9 @@ a:hover {
 .site-section.blue-bg{
   background-color: #043050;
 }
-.post-entry.home{
+/*.post-entry.home{
   border-bottom: 35px solid #043050;
-}
+}*/
 @media (min-width: 768px) {
   .site-section {
     padding: 5em 0;
