@@ -137,7 +137,7 @@ a:hover {
   background-color: #043050;
 }
 .post-entry.home{
-  border: 15px solid #043050;
+  border-top: 35px solid #043050;
 }
 @media (min-width: 768px) {
   .site-section {
