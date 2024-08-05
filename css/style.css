@@ -139,6 +139,26 @@ a:hover {
 /*.post-entry.home{
   border-bottom: 35px solid #043050;
 }*/
+.container {
+            width: 928px;
+            margin: 0 auto;
+            background-color: #193C7E; /* The same background color to match */
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .profile-title {
+            font-size: 24px;
+            font-weight: bold;
+        }
+        .profile-subtitle {
+            font-size: 18px;
+            margin-top: 10px;
+        }
+        .profile-details {
+            font-size: 16px;
+            margin-top: 20px;
+        }
 @media (min-width: 768px) {
   .site-section {
     padding: 5em 0;
