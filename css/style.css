@@ -146,18 +146,22 @@ a:hover {
             padding: 20px;
             border-radius: 10px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
         }
         .profile-title {
             font-size: 24px;
             font-weight: bold;
+          color: #ffd700;
         }
         .profile-subtitle {
             font-size: 18px;
             margin-top: 10px;
+          color: #fff;
         }
         .profile-details {
             font-size: 16px;
             margin-top: 20px;
+          color: #fff;
         }
 @media (min-width: 768px) {
   .site-section {
